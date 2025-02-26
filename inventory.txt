@@ -1,1 +1,2 @@
 "Product: Laptop, Stock: 20" 
+"Product: Tablet, Stock: 10" 
